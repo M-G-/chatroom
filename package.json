@@ -1,0 +1,9 @@
+{
+  "name": "chatRoom",
+  "version": "0.0.1",
+  "description": "a realtime chat web application",
+  "dependencies": {
+    "express": "3.4.x",
+    "socket.io": "0.9.x"
+  }
+}
