@@ -1,9 +1,27 @@
 {
-  "name": "chatRoom",
+  "name": "mg.chatroom",
   "version": "0.0.1",
   "description": "a realtime chat web application",
   "dependencies": {
     "express": "3.4.x",
     "socket.io": "0.9.x"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/M-G-/chatroom.git"
+  },
+  "keywords": [
+    "chatroom"
+  ],
+  "author": "M-G-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-G-/chatroom/issues"
+  },
+  "homepage": "https://github.com/M-G-/chatroom"
 }
