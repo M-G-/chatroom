@@ -1,6 +1,6 @@
 {
   "name": "mg.chatroom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a realtime chat web application",
   "dependencies": {
     "express": "^4.10.7",
